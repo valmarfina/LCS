@@ -1,0 +1,169 @@
+-----PAIR OF SEQUENCES № 1-----
+HABRAHABR
+HARBOUR
+
+Length of longest common subsequence:
+5
+
+THE MATRIX:
+      H  A  B  R  A  H  A  B  R  
+   0  0  0  0  0  0  0  0  0  0 
+H  0  1  1  1  1  1  1  1  1  1 
+A  0  1  2  2  2  2  2  2  2  2 
+R  0  1  2  2  3  3  3  3  3  3 
+B  0  1  2  3  3  3  3  3  4  4 
+O  0  1  2  3  3  3  3  3  4  4 
+U  0  1  2  3  3  3  3  3  4  4 
+R  0  1  2  3  4  4  4  4  4  5 
+
+LARGEST TOTAL SEQUENCE: 
+HARBR
+
+
+-----PAIR OF SEQUENCES № 2-----
+this
+theis
+
+Length of longest common subsequence:
+4
+
+THE MATRIX:
+      t  h  i  s  
+   0  0  0  0  0 
+t  0  1  1  1  1 
+h  0  1  2  2  2 
+e  0  1  2  2  2 
+i  0  1  2  3  3 
+s  0  1  2  3  4 
+
+LARGEST TOTAL SEQUENCE: 
+this
+
+
+-----PAIR OF SEQUENCES № 3-----
+car
+internet
+
+Length of longest common subsequence:
+1
+
+THE MATRIX:
+      c  a  r  
+   0  0  0  0 
+i  0  0  0  0 
+n  0  0  0  0 
+t  0  0  0  0 
+e  0  0  0  0 
+r  0  0  0  1 
+n  0  0  0  1 
+e  0  0  0  1 
+t  0  0  0  1 
+
+LARGEST TOTAL SEQUENCE: 
+r
+
+
+-----PAIR OF SEQUENCES № 4-----
+Algorithm
+Algorithm
+
+Length of longest common subsequence:
+9
+
+THE MATRIX:
+      A  l  g  o  r  i  t  h  m  
+   0  0  0  0  0  0  0  0  0  0 
+A  0  1  1  1  1  1  1  1  1  1 
+l  0  1  2  2  2  2  2  2  2  2 
+g  0  1  2  3  3  3  3  3  3  3 
+o  0  1  2  3  4  4  4  4  4  4 
+r  0  1  2  3  4  5  5  5  5  5 
+i  0  1  2  3  4  5  6  6  6  6 
+t  0  1  2  3  4  5  6  7  7  7 
+h  0  1  2  3  4  5  6  7  8  8 
+m  0  1  2  3  4  5  6  7  8  9 
+
+LARGEST TOTAL SEQUENCE: 
+Algorithm
+
+
+-----PAIR OF SEQUENCES № 5-----
+SQL can be used to share and manage data, particularly data that is found in relational database management systems
+Structured Query Language can be used to share and manage data, particularly data that is found in relational database management systems
+
+Length of longest common subsequence:
+115
+
+THE MATRIX IS TOO GREAT TO CARRY OUT IT!
+
+LARGEST TOTAL SEQUENCE: 
+SQL can be used to share and manage data, particularly data that is found in relational database management systems
+
+
+-----PAIR OF SEQUENCES № 6-----
+mechanical digital construction
+devices group of related media
+
+Length of longest common subsequence:
+10
+
+THE MATRIX:
+      m  e  c  h  a  n  i  c  a  l     d  i  g  i  t  a  l     c  o  n  s  t  r  u  c  t  i  o  n  
+   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+d  0  0  0  0  0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 
+e  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 
+v  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1 
+i  0  0  1  1  1  1  1  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2  2 
+c  0  0  1  2  2  2  2  2  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3 
+e  0  0  1  2  2  2  2  2  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3 
+s  0  0  1  2  2  2  2  2  3  3  3  3  3  3  3  3  3  3  3  3  3  3  3  4  4  4  4  4  4  4  4  4 
+   0  0  1  2  2  2  2  2  3  3  3  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4  4 
+g  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  5  5  5  5  5  5  5  5  5  5  5  5  5 
+r  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  5  5  5  5  5  5  6  6  6  6  6  6  6 
+o  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  5  5  6  6  6  6  6  6  6  6  6  7  7 
+u  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  5  5  6  6  6  6  6  7  7  7  7  7  7 
+p  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  5  5  6  6  6  6  6  7  7  7  7  7  7 
+   0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  6  6  6  6  6  6  6  7  7  7  7  7  7 
+o  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  6  6  7  7  7  7  7  7  7  7  7  8  8 
+f  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  6  6  7  7  7  7  7  7  7  7  7  8  8 
+   0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  6  6  7  7  7  7  7  7  7  7  7  8  8 
+r  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  6  6  7  7  7  7  8  8  8  8  8  8  8 
+e  0  0  1  2  2  2  2  2  3  3  3  4  4  4  5  5  5  5  5  6  6  7  7  7  7  8  8  8  8  8  8  8 
+l  0  0  1  2  2  2  2  2  3  3  4  4  4  4  5  5  5  5  6  6  6  7  7  7  7  8  8  8  8  8  8  8 
+a  0  0  1  2  2  3  3  3  3  4  4  4  4  4  5  5  5  6  6  6  6  7  7  7  7  8  8  8  8  8  8  8 
+t  0  0  1  2  2  3  3  3  3  4  4  4  4  4  5  5  6  6  6  6  6  7  7  7  8  8  8  8  9  9  9  9 
+e  0  0  1  2  2  3  3  3  3  4  4  4  4  4  5  5  6  6  6  6  6  7  7  7  8  8  8  8  9  9  9  9 
+d  0  0  1  2  2  3  3  3  3  4  4  4  5  5  5  5  6  6  6  6  6  7  7  7  8  8  8  8  9  9  9  9 
+   0  0  1  2  2  3  3  3  3  4  4  5  5  5  5  5  6  6  6  7  7  7  7  7  8  8  8  8  9  9  9  9 
+m  0  1  1  2  2  3  3  3  3  4  4  5  5  5  5  5  6  6  6  7  7  7  7  7  8  8  8  8  9  9  9  9 
+e  0  1  2  2  2  3  3  3  3  4  4  5  5  5  5  5  6  6  6  7  7  7  7  7  8  8  8  8  9  9  9  9 
+d  0  1  2  2  2  3  3  3  3  4  4  5  6  6  6  6  6  6  6  7  7  7  7  7  8  8  8  8  9  9  9  9 
+i  0  1  2  2  2  3  3  4  4  4  4  5  6  7  7  7  7  7  7  7  7  7  7  7  8  8  8  8  9 10 10 10 
+a  0  1  2  2  2  3  3  4  4  5  5  5  6  7  7  7  7  8  8  8  8  8  8  8  8  8  8  8  9 10 10 10 
+
+LARGEST TOTAL SEQUENCE: 
+eic g orti
+
+
+-----PAIR OF SEQUENCES № 7-----
+abcdaf
+acbcf
+
+Length of longest common subsequence:
+4
+
+THE MATRIX:
+      a  b  c  d  a  f  
+   0  0  0  0  0  0  0 
+a  0  1  1  1  1  1  1 
+c  0  1  1  2  2  2  2 
+b  0  1  2  2  2  2  2 
+c  0  1  2  3  3  3  3 
+f  0  1  2  3  3  3  4 
+
+LARGEST TOTAL SEQUENCE: 
+abcf
+
+
+-----PAIR OF SEQUENCES № 8-----
+ERROR! THE FILE TO READ CONTAINS AN EMPTY LINE.
